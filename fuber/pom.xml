@@ -10,15 +10,15 @@
   
   <properties>
         <spring.version>4.2.0.RELEASE</spring.version>
-        <hibernate.version>4.3.11.Final</hibernate.version>
+        <hibernate.version>5.3.18.Final</hibernate.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <jstl.version>1.2</jstl.version>
         <junit.version>3.8.1</junit.version>
-        <postgres-version>9.4.1208</postgres-version>
+        <postgres-version>42.2.13</postgres-version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <spring-data-jpa.version>1.8.2.RELEASE</spring-data-jpa.version>
-        <hibernate-validator.version>5.2.1.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.19.Final</hibernate-validator.version>
     </properties>
     
   <dependencies>
