@@ -14,7 +14,7 @@
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <jstl.version>1.2</jstl.version>
         <junit.version>3.8.1</junit.version>
-        <postgres-version>9.4.1208</postgres-version>
+        <postgres-version>42.7.2</postgres-version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <spring-data-jpa.version>1.8.2.RELEASE</spring-data-jpa.version>
